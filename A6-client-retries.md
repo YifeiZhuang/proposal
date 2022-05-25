@@ -2,9 +2,9 @@ gRPC Retry Design
 ----
 * Author(s): [Noah Eisen](https://github.com/ncteisen) and [Eric Gribkoff](https://github.com/ericgribkoff)
 * Approver: a11r
-* Status: Ready for Implementation
-* Implementation: In progress for all language stacks
-* Last updated: 2017-09-13
+* Status: Implemented
+* Implemented in: Java, .NET, Go except hedging, and C-Core except hedging
+* Last updated: 2022-02-14
 * Discussion at: https://groups.google.com/forum/#!topic/grpc-io/zzHIICbwTZE
 
 Table of Contents
